@@ -4,7 +4,7 @@
  * @author Matthew Lane (200214586)
  * @date 02/2/2015
  * @description Assignment 2, The Super Hero
- * @version 1.0
+ * @version 2.0
  */
 
 public class CreateAndUseHeros {
